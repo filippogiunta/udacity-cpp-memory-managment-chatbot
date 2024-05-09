@@ -1,0 +1,3 @@
+/home/filippo/Desktop/code/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
+/home/filippo/Desktop/code/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
+/home/filippo/Desktop/code/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
